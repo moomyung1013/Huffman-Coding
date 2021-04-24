@@ -1,10 +1,5 @@
 # Huffman Coding
  
----
-title: 허프만 코딩(Huffman Coding)
-categories: [project]
-comments: true
----
 
 # 개요   
 허프만 코딩(Huffman Coding)은 자료 압축의 가장 오래되고 기초적인 방법 중의 하나이며 최소 중복 코딩(minimum redundancy coding)에 기반한 알고리즘을 사용한다. 최소 중복 코딩은 문자들이 자료 집합에서 얼마나 자주 발생하는지를 안다면 발생되는 문자들의 비율에 따라 자주 반복되는 문자들을 더 적은 비트로 부호화 하는 방법이다. 일반적인 경우 한 문자를 표현하기 위해 한 개의 바이트(ASCII 코드)를 사용하나 허프만 코드는 문자 발생 비율에 따라 다른 크기의 비트로 표현한다.   
