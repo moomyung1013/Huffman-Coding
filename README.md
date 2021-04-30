@@ -221,6 +221,3 @@ for : buffer 가 -1이 아닐동안
 ```   
 
 <br><br>
-### 자세한 소스코드를 보고 싶다면 [허프만 코딩 Github][huff-git] 을 확인.
-
-[huff-git]: https://github.com/moomyung1013/Level3_Huffman
